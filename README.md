@@ -1,1 +1,1 @@
-# alabala
+cout << "Hello world"<<;
